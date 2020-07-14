@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228779158799",
+    "firebase_url": "https://wegist-a1a4b.firebaseio.com",
+    "project_id": "wegist-a1a4b",
+    "storage_bucket": "wegist-a1a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228779158799:android:367eb612fb5ed44cc9227a",
+        "android_client_info": {
+          "package_name": "com.example.gist_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228779158799-cnk7ve80gt276ltt1p5nr8ruihg6bsmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLBx9IYQJSDH8Mmo5KdFLSGOp866hhf0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228779158799-cnk7ve80gt276ltt1p5nr8ruihg6bsmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
